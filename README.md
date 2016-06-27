@@ -1,5 +1,5 @@
 # AlohaApparel
-https://billytam823.github.io/AlohaApparel/
+https://billytam823.github.io/AlohaApparel-Html/
 
 Aloha Apparel's Website's front page recreated as a single page
 
